@@ -1,2 +1,1 @@
-# Relational-DBMS
-Relational database management system that establishes a connection to mySQL for simple database actions on a custom relational database.
+This application establishes a connection to a database and allows the user to perform various tasks with data for major league baseball. First, run the python file to start. The terminal will list a number of possible tasks where the user may type a number to perform a corresponsing task. All team and player names must require correct spelling and capitalization to function. All players may be viewed by typing 1. Typing 2 will show a list of available games. Typing 6 will exit the program. 
